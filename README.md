@@ -16,6 +16,6 @@ Um simples jogo de adivinhação desenvolvido em Java, onde o jogador tem **5 te
 1. **Clone o repositório** (se estiver no GitHub):
 
 
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/seu-usuario/Jogo-da-Adivinha-o.java.git
 
-Jogo-da-Adivinha-o.java
+
